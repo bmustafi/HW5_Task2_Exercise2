@@ -1,4 +1,4 @@
-public class Employee {
+public class Employee { // superclass of Professor
     private String name;
 
     public Employee() {
